@@ -1,0 +1,9 @@
+astra-toolbox
+numpy
+scipy
+scikit-image
+scikit-learn
+pandas
+matplotlib
+plotly
+Pillow
